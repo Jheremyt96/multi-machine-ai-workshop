@@ -51,3 +51,5 @@ Python · bash · SSH · systemd-run (memory caps) · tmux · Tailscale · ffmpe
 ---
 
 The source code is private because it runs on my own infrastructure. I'm happy to walk through it on a call.
+
+© 2026 Jheremyt Salazar. All rights reserved.
